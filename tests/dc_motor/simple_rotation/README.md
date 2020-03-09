@@ -1,5 +1,9 @@
 # Simple rotation
 
+### Description:
+
+Arduino connects to a DC motor through a driver and drives it.
+
 ### Expected behaviour:
 
 - Motor rotates for 2 seconds
