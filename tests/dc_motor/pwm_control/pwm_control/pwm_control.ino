@@ -20,7 +20,7 @@ void loop() {
     digitalWrite(PIN_IN_A, HIGH);
     digitalWrite(PIN_IN_B, LOW);
     delay(2000);
-    
+
     // rotate (1/2)
     analogWrite(PIN_EN, MAX_VALUE / 2);
     digitalWrite(PIN_IN_A, HIGH);
