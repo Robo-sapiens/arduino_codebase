@@ -1,0 +1,1 @@
+cppcheck `find -regex '\(.*[.]ino\)'` --enable=all --error-exitcode=1 --suppress=unusedFunction
